@@ -10,7 +10,11 @@
 				"-g",
 				"${workspaceFolder}\\src\\*.cpp",
 				"-o",
+<<<<<<< HEAD
 				"${workspaceFolder}\\main.exe"
+=======
+				"${workspaceFolder}\\${workspaceFolderBasename}.exe"
+>>>>>>> c0fd74a96a43fcbae433ae972c562f7ae10d2bfd
 			],
 			"options": {
 				"cwd": "C:/mingw64/bin"
