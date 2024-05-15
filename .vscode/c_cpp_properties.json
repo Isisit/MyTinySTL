@@ -3,28 +3,17 @@
         {
             "name": "Win32",
             "includePath": [
-<<<<<<< HEAD
-                "${workspaceFolder}//include//**"
-=======
                 "${workspaceFolder}/**"
->>>>>>> c0fd74a96a43fcbae433ae972c562f7ae10d2bfd
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-<<<<<<< HEAD
-            "cStandard": "c11",
-            "cppStandard": "c++17",
-            "intelliSenseMode": "gcc-x64",
-            "compilerPath": "C:/mingw64/bin/g++.exe"
-=======
             "compilerPath": "C:/mingw64/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x64"
->>>>>>> c0fd74a96a43fcbae433ae972c562f7ae10d2bfd
         }
     ],
     "version": 4
